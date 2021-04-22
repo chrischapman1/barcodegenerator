@@ -1,0 +1,596 @@
+[
+  {
+    "Sr": 1,
+    "Name": "300-0020-24",
+    "Item Name": "Premium Car Wash 20ltr",
+    "Variant Of": "",
+    "Item Group": "PERSONAL CARE PRODUCTS",
+    "Standard Selling Rate": 99.456,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 2,
+    "Name": "300-0020-45",
+    "Item Name": "Interior Cleaner 20ltr - Water Based - Non Caustic",
+    "Variant Of": "",
+    "Item Group": "PERSONAL CARE PRODUCTS",
+    "Standard Selling Rate": 80.72,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 3,
+    "Name": "300-0020-43",
+    "Item Name": "Hydrosolv 20ltr - Biodegradable Hard Surface Cleaner - Non Toxic - Non Flammable",
+    "Variant Of": "",
+    "Item Group": "KITCHEN/FOOD SERVICE PRODUCTS",
+    "Standard Selling Rate": 118.176,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 4,
+    "Name": "300-0020-50",
+    "Item Name": "Master Touch 20ltr - Stainles Steel & Timber Polish",
+    "Variant Of": "",
+    "Item Group": "KITCHEN/FOOD SERVICE PRODUCTS",
+    "Standard Selling Rate": 229.552,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 5,
+    "Name": "300-0020-75",
+    "Item Name": "Sanophene Odourless 20ltr - Hospital Grade Cleaner/Disinfectant/Sanitiser/Deoderiser",
+    "Variant Of": "",
+    "Item Group": "KITCHEN/FOOD SERVICE PRODUCTS",
+    "Standard Selling Rate": 81.792,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 6,
+    "Name": "300-0020-69",
+    "Item Name": "Pyramine 20ltr - Germicidal Concentrate",
+    "Variant Of": "",
+    "Item Group": "KITCHEN/FOOD SERVICE PRODUCTS",
+    "Standard Selling Rate": 89.36,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 7,
+    "Name": "300-0020-77",
+    "Item Name": "SC239 20KG Bucket - Powder Cleaner - Sanitiser/Deodoriser",
+    "Variant Of": "",
+    "Item Group": "KITCHEN/FOOD SERVICE PRODUCTS",
+    "Standard Selling Rate": 261.248,
+    "Brand": ""
+  },
+  {
+    "Sr": 8,
+    "Name": "300-0020-90",
+    "Item Name": "Tuff Stuff 20ltr - Grill & Hot Plate Cleaner",
+    "Variant Of": "",
+    "Item Group": "FURNITURE/FLOOR/CARPET PRODUCTS",
+    "Standard Selling Rate": 152.432,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 9,
+    "Name": "300-0020-86",
+    "Item Name": "Spray San 20ltr - Anti Bacterial Surface Spray",
+    "Variant Of": "",
+    "Item Group": "FURNITURE/FLOOR/CARPET PRODUCTS",
+    "Standard Selling Rate": 117.888,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 10,
+    "Name": "300-0020-82",
+    "Item Name": "Silquest 20ltr - Machine Dishwashing - Automatic Dispensing",
+    "Variant Of": "",
+    "Item Group": "FURNITURE/FLOOR/CARPET PRODUCTS",
+    "Standard Selling Rate": 139.632,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 11,
+    "Name": "300-0020-37",
+    "Item Name": "Glazene 20ltr - Rinse & Drying Aid Machine Dishwashing",
+    "Variant Of": "",
+    "Item Group": "FURNITURE/FLOOR/CARPET PRODUCTS",
+    "Standard Selling Rate": 147.392,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 12,
+    "Name": "300-0020-23",
+    "Item Name": "Dish Glo 20ltr - Super Concentrated Dish Washing Liquid",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 100.704,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 13,
+    "Name": "300-0020-22",
+    "Item Name": "Dish Gleam 20kg Bucket - Machine Dishwashing Powder",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 267.968,
+    "Brand": ""
+  },
+  {
+    "Sr": 14,
+    "Name": "300-0020-15",
+    "Item Name": "Control 20ltr - Machine Dishashing Liquid",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 122.544,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 15,
+    "Name": "300-0020-12",
+    "Item Name": "Combi King 20ltr - Grill Plate & Oven Cleaner",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 163.296,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 16,
+    "Name": "300-0020-92",
+    "Item Name": "UltraKlenz 20ltr - Industrial Hand Cleaning Gel with Beads",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 153.584,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 17,
+    "Name": "300-0020-60",
+    "Item Name": "Nutra Gel 20ltr - Hand & Skin Cleanser",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 121.28,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 18,
+    "Name": "300-0020-40",
+    "Item Name": "Han D 20ltr - Industrial Non-Solvent Hand Cleaner",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 147.008,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 19,
+    "Name": "300-0020-33",
+    "Item Name": "Fabricon 20ltr - Concentrated Fabric Softener & Conditioner",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 107.888,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 20,
+    "Name": "300-0020-06",
+    "Item Name": "Bio San 20kg Bucket - Laundry Soaker/Destainer",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 183.968,
+    "Brand": ""
+  },
+  {
+    "Sr": 21,
+    "Name": "300-0020-64",
+    "Item Name": "Prohance 12 20ltr - Carpet Care - Heavy Soiled Carpets",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 173.28,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 22,
+    "Name": "300-0020-65",
+    "Item Name": "Prohance 8 20ltr - Carpet Care - Wool Carpets",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 179.008,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 23,
+    "Name": "300-0020-96",
+    "Item Name": "Wisp Tropical Vanilla 20ltr - Air Sanitiser/Deodoriser",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 199.76,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 24,
+    "Name": "300-0020-76",
+    "Item Name": "Sanophene 20ltr - Hospital Grade Cleaner/Disinfectant/Sanitiser/Deodoriser",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 97.712,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 25,
+    "Name": "300-0020-48",
+    "Item Name": "Liquid Chlorine Bleach 20ltr",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 93.248,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 26,
+    "Name": "300-0020-36",
+    "Item Name": "Florene Tropical Vanilla 20ltr - Antiseptic/Cleaner/Deodoriser",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 128.16,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 27,
+    "Name": "300-0020-34",
+    "Item Name": "Florene Eucalyptus 20ltr- Antiseptic/Cleaner/Deodoriser",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 106.176,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 28,
+    "Name": "300-0020-95",
+    "Item Name": "White Knight 20ltr - Destainer & Brightener",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 108.464,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 29,
+    "Name": "300-0020-41",
+    "Item Name": "Hi Gene 20ltr - Acid Bactericidal Cleaner",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 103.232,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 30,
+    "Name": "300-0020-38",
+    "Item Name": "Glisten 20ltr - Commercial Solvent Window Cleaner",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 85.376,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 31,
+    "Name": "300-0020-30",
+    "Item Name": "Eclipse 20ltr - Bathroom Cleaner",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 111.568,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 32,
+    "Name": "300-0020-54",
+    "Item Name": "Safe T Strip 20ltr - Graffiti Remover",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 530.096,
+    "Brand": ""
+  },
+  {
+    "Sr": 33,
+    "Name": "300-0020-88",
+    "Item Name": "Trete Crete 20ltr - Concrete Remover",
+    "Variant Of": "",
+    "Item Group": "Bathroom",
+    "Standard Selling Rate": 96.736,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 34,
+    "Name": "300-0020-89",
+    "Item Name": "Trust 20ltr - Aluminium & Stainless Steel Brightener",
+    "Variant Of": "",
+    "Item Group": "Bathroom",
+    "Standard Selling Rate": 220.528,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 35,
+    "Name": "300-0020-78",
+    "Item Name": "Scalex 20ltr -  Inhibited Acid Concentrate",
+    "Variant Of": "",
+    "Item Group": "Bathroom",
+    "Standard Selling Rate": 128.656,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 36,
+    "Name": "300-0020-66",
+    "Item Name": "Protol 20ltr - Scrubber Box Diesel Particulate Entrapment",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 137.968,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 37,
+    "Name": "300-0020-28",
+    "Item Name": "Dustat 20ltr- Residual & Cumulative Dust Control",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 98.768,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 38,
+    "Name": "300-0020-11",
+    "Item Name": "Corronil RS50 20ltr - Corrosion Prevention - Long Term",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 441.936,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 39,
+    "Name": "300-0020-42",
+    "Item Name": "Hot Wash 20KG Bucket - Parts Machine Cleaner - Powder",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 0,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 40,
+    "Name": "300-0020-55",
+    "Item Name": "Multrex 20ltr - Steam & Power Cleaning",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 94.8,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 41,
+    "Name": "300-0020-17",
+    "Item Name": "DC 186 - 20ltr- Solvent Based Degreaser",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 215.296,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 42,
+    "Name": "300-0020-14",
+    "Item Name": "Concentrate 20ltr - Multi Purpose Deep Cleaning Compound",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 98.48,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 43,
+    "Name": "300-0020-03",
+    "Item Name": "Aquatron 20ltr - Water Based Degreaser - Concentrate",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 168.24,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 44,
+    "Name": "300-0020-02",
+    "Item Name": "Aquatek 20ltr - Heavy Duty Water Based Degreaser",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 104.112,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 45,
+    "Name": "300-0020-44",
+    "Item Name": "Hydrosolv RTU - 20ltr - Ready to Use - Bioderadable Hard Surface Cleaner",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 80.72,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 46,
+    "Name": "300-0020-59",
+    "Item Name": "NS36 - 20ltr - Electrical Solvent - Non Chlorinated - Non-Flammable F/P 63",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 422.384,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 47,
+    "Name": "300-0020-58",
+    "Item Name": "NS25 - 20ltr- Electracal Solvent - Non Chlorinated - Non-Flammable F/P 80",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 404.496,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 48,
+    "Name": "300-0020-57",
+    "Item Name": "NS14 - 20ltr - Electrical Cleaning Solvent - Non-Flammable",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 553.984,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 49,
+    "Name": "300-0020-56",
+    "Item Name": "20 LT NS13 Solvent",
+    "Variant Of": "",
+    "Item Group": "INDUSTRIAL SOLVENT PRODUCTS",
+    "Standard Selling Rate": 462.16,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 50,
+    "Name": "300-0020-31",
+    "Item Name": "20 LT 3in1 Hand/Body/Shampoo",
+    "Variant Of": "",
+    "Item Group": "PERSONAL CARE PRODUCTS",
+    "Standard Selling Rate": 89.152,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 51,
+    "Name": "300-0020-61",
+    "Item Name": "20 LT Nutra Gel Medicated",
+    "Variant Of": "",
+    "Item Group": "PERSONAL CARE PRODUCTS",
+    "Standard Selling Rate": 162.448,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 52,
+    "Name": "300-0020-87",
+    "Item Name": "20 LT Supa Kleen",
+    "Variant Of": "",
+    "Item Group": "FURNITURE/FLOOR/CARPET PRODUCTS",
+    "Standard Selling Rate": 79.024,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 53,
+    "Name": "300-0020-63",
+    "Item Name": "20 LT Prohance 10",
+    "Variant Of": "",
+    "Item Group": "FURNITURE/FLOOR/CARPET PRODUCTS",
+    "Standard Selling Rate": 115.376,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 54,
+    "Name": "300-0020-99",
+    "Item Name": "20 LT Wisp Apple",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 159.024,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 55,
+    "Name": "300-0020-35",
+    "Item Name": "20 LT Florene Powder Puff",
+    "Variant Of": "",
+    "Item Group": "DISINFECTANTS/DEODORISERS/REODORISER PRODUCTS",
+    "Standard Selling Rate": 107.184,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 56,
+    "Name": "300-0020-98",
+    "Item Name": "20 LT Yield",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 214.368,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 57,
+    "Name": "300-0020-62",
+    "Item Name": "20 LT Phosphex",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 189.552,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 58,
+    "Name": "300-0020-20",
+    "Item Name": "20 LT Descale 41",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 454.528,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 59,
+    "Name": "300-0020-10",
+    "Item Name": "20 LT Citra Kleen E",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 1101.76,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 60,
+    "Name": "300-0020-13",
+    "Item Name": "20 LT Chem Steam",
+    "Variant Of": "",
+    "Item Group": "DEGREASER/INDUSTRIAL PRODUCTS",
+    "Standard Selling Rate": 148.112,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 61,
+    "Name": "300-0020-91",
+    "Item Name": "20 LT Tydee",
+    "Variant Of": "",
+    "Item Group": "Bathroom",
+    "Standard Selling Rate": 71.728,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 62,
+    "Name": "300-0020-04",
+    "Item Name": "20 LT Workshop Genie",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 152.592,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 63,
+    "Name": "300-0020-19",
+    "Item Name": "20 LT Solvent Dewaxer",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 189.2,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 64,
+    "Name": "300-0020-18",
+    "Item Name": "20 LT Solvent Degreaser",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 198.8,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 65,
+    "Name": "300-0020-39",
+    "Item Name": "20 LT Glass Polish",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 81.312,
+    "Brand": "Hammersley"
+  },
+  {
+    "Sr": 66,
+    "Name": "300-0020-93",
+    "Item Name": "20 LT Cleen Hands",
+    "Variant Of": "",
+    "Item Group": "Automotive",
+    "Standard Selling Rate": 139.312,
+    "Brand": "Hammersley"
+  }
+]
